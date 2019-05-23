@@ -4,11 +4,9 @@
 # In[12]:
 
 
-name = input("Enter your name:\t"); print("Hello", name);
+name = input("Enter your name:\t"); 
+print("Hello ", name);
 
 
 # In[ ]:
-
-
-
 
